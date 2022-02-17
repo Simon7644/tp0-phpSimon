@@ -7,6 +7,8 @@
     <title>tp0php</title>
 </head>
 <body>
+
+<?php include('formulaire.php');?>
     
 </body>
 </html>
