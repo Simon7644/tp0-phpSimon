@@ -6,3 +6,5 @@ D'un valeur de <?php echo $_POST["prix"]; ?><br>
 Description: <?php echo $_POST["description"]; ?><br>
 Stock: <?php echo $_POST["stock"]; ?><br>
 Fournisseur <?php echo $_POST["fournisseur"]; ?><br>
+
+<?php include('formulaire.php') ?>
