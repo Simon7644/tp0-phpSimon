@@ -1,5 +1,5 @@
 <?php
-$x=13;
+$x=10;
 if($x%3==0 AND $x%5==0){
     echo "$x est un multiple de 3 et de 5 ";
 }

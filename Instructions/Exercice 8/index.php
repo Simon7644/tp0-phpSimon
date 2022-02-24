@@ -12,5 +12,5 @@ function gcd($a, $b){
 ?>
 
 <?php
-echo gcd(2.5,4.5 );
+echo gcd(2,4.5 );
 ?>
